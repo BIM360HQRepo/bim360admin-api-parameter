@@ -1,7 +1,7 @@
 ## BIM 360 Account Admin API parameter reference
 ###### *This documentation provides available options of some parameter when you are trying to use BIM 360 Account Admin API.* 
 ==
-###### service_types
+###### service_type
 ```
 field
 glue
@@ -189,4 +189,31 @@ Pacific/Guadalcanal
 Pacific/Tongatapu
 Pacific/Apia
 Pacific/Fakaofo
+```
+###### construction_type
+```
+New Construction
+Renovation
+```
+###### contact_type
+```
+Construction Management (CM) at Risk
+Design-Bid
+Design-Bid-Build
+Design-Build-Operate
+IPD
+```
+###### price_model
+```
+enterprise_unlimited
+enterprise_token
+enterprise_mixed
+mixed_model
+project_based
+user_based
+trial
+nfr_employee
+nfr_partner
+nfr_education
+freemium
 ```
