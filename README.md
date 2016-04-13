@@ -1,7 +1,7 @@
 ## BIM 360 Account Admin API parameter reference
 ###### *This documentation provides available options of some parameter when you are trying to use BIM 360 Account Admin API.* 
 ==
-* service_types
+###### service_types
 ```
 - field
 - glue
@@ -9,7 +9,7 @@
 - plan
 - doc_manager
 ```
-* currency
+###### currency
 ```
 - USD
 - AUD
@@ -61,7 +61,7 @@
 - PHP
 - NZD
 ```
-* timezone
+###### timezone
 ```
 - Pacific/Honolulu
 - America/Juneau
